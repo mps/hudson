@@ -1,6 +1,7 @@
 h2{font-weight:normal}
-.textwidget{min-height:100px}.textwidget .bsap{float:left}
 code{background-color:#fee9cc;color:rgba(0,0,0,0.75);padding:1px 3px}
+.single #menu-above-header .navbar-inner .container{margin-top:-8px}
+.textwidget{min-height:100px}.textwidget .bsap{float:left}
 #site-title{color:#fff !important;margin-top:2px}#site-title a{color:#fff !important;font-size:20px;font-weight:normal;text-shadow:none !important}#site-title a:hover{color:#ccc}
 .post-title{font-weight:400;font-size:32px}
 .post p{line-height:22px;font-size:14px}
@@ -10,7 +11,7 @@ code{background-color:#fee9cc;color:rgba(0,0,0,0.75);padding:1px 3px}
 #site-title,#menu-above-header,#footer{font-family:'Droid Sans',Arial,sans-serif}
 .navbar .navbar-inner{height:45px}
 .navbar .nav>li>a{text-shadow:none}
-.menu-header-container{float:left;background:#000}
+.menu-header-container{float:left}
 .standard-pi-bio{font-size:13px}
 .post.format-quote .post-title{border-bottom:0;margin-bottom:0}
 .post.format-quote .post-header{background-color:#000;background-image:url(../images/bg-quote.png)}.post.format-quote .post-header .entry-content{background-image:url(../images/icn-quote.png)}.post.format-quote .post-header .entry-content p{font-style:normal;color:#fff;font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;font-weight:200;margin-top:-4px}
@@ -28,4 +29,4 @@ body .syntaxhighlighter code,body body .syntaxhighlighter .gutter{font-family:Me
 .sharedaddy .sd-content{float:left !important;margin:0 0 0 100px !important}
 .sharedaddy .sd-sharing{border:0 !important;margin-left:-100px !important}
 .single-post-message{margin-bottom:20px !important}
-@media (max-width:480px){#site-title{display:none} #social-networking .social-icons{margin-top:3px}}@media (max-width:979px){#site-title{margin-left:4px;margin-top:-6px}}@media only screen and (max-width:767px){#site-title{margin-left:4px;margin-top:-6px} #site-title .brand{margin-top:-4px}}@media (min-width:768px) and (max-width:979px){#site-title{margin-left:4px;margin-top:-6px}}
+@media (max-width:480px){#site-title{margin-top:1px} #social-networking .social-icons{margin-top:3px} .menu-header-container{background:#000} .btn-navbar{margin-top:15px !important}}@media (max-width:979px){#site-title{margin-left:4px;margin-top:1px} .menu-header-container{background:#000} .btn-navbar{margin-top:15px !important}}@media only screen and (max-width:767px){#site-title{margin-left:4px;margin-top:1px} .menu-header-container{background:#000} .btn-navbar{margin-top:15px !important}}@media (min-width:768px) and (max-width:979px){#site-title{margin-left:4px;margin-top:1px} .menu-header-container{background:#000} .btn-navbar{margin-top:15px !important}}
