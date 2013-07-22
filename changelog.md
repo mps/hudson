@@ -4,6 +4,7 @@
 
 * Updated the background of the drop-down menus for the mobile view
 * Fixed positioning for the Sharedaddy sharers in the mobile vew
+* Updating the responsible button to the inverse color
 
 ## 0.15
 
