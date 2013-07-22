@@ -1,5 +1,14 @@
 # Changelog
 
+## 0.16 ( 22 July, 2013 )
+
+* Updated the background of the drop-down menus for the mobile view
+* Fixed positioning for the Sharedaddy sharers in the mobile vew
+
+## 0.15
+
+* This changelog was not updated for this release. Sad.
+
 ## 0.14 ( April 16th, 2013 )
 
 * Fixing advertisement spacing in Firefox
@@ -37,14 +46,14 @@
 * Updated positioning of social icons in mobile view
 * Updated positioning of brand element in mobile view
 
-## 0.8 ( August 6th, 2012) 
+## 0.8 ( August 6th, 2012)
 
 * Adding styles for PayPal and Stripe
 * Adding LESS-based CSS for admin styles and /dev/ JavaScript for CodeKit integration
 * Updated the README
 * Added a meta description for archive / category pages
 
-## 0.7 ( July 16th, 2012) 
+## 0.7 ( July 16th, 2012)
 
 * Updating margins for link post types
 
@@ -69,7 +78,7 @@
 ## 0.3 (July 9th, 2012)
 
 * Removing the Privacy Policy from the footer credit area
-* Adjusting the margin below the advertisement 
+* Adjusting the margin below the advertisement
 
 ## 0.2 (July 3rd, 2012)
 
