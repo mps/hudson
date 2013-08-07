@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.17.0 ( 6 August, 2013 )
+* Introduced semantic versioning
+* Fixed BSA styling
+* Fixed navigation menu margins on pages
+
 ## 0.16 ( 22 July, 2013 )
 
 * Updated the background of the drop-down menus for the mobile view
