@@ -1,6 +1,15 @@
 # Changelog
 
+## 0.17.2 ( 9 August, 2013 )
+
+* Resolving a navigation menu margin problem on category pages
+
+## 0.17.1 ( 6 August, 2013 )
+
+* Resolving a navigation menu margin problem on index pages
+
 ## 0.17.0 ( 6 August, 2013 )
+
 * Introduced semantic versioning
 * Fixed BSA styling
 * Fixed navigation menu margins on pages
