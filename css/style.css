@@ -3,7 +3,7 @@ code{background-color:#fee9cc;color:rgba(0,0,0,0.75);padding:1px 3px}
 .single #menu-above-header .navbar-inner .container{margin-top:-8px}
 .textwidget{min-height:100px}.textwidget .bsap{float:left;margin-bottom:20px}
 .textwidget img{margin-bttom:20px}
-.page p#site-title,.category p#site-title,.archive p#site-title{margin-top:2px}
+.page p#site-title,.category p#site-title{margin-top:2px !important}
 #site-title{color:#fff !important;margin-top:2px}#site-title a{color:#fff !important;font-size:20px;font-weight:normal;text-shadow:none !important}#site-title a:hover{color:#ccc}
 .post-title{font-weight:400;font-size:32px}
 .post p{line-height:22px;font-size:14px}
